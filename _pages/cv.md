@@ -38,7 +38,7 @@ Manuscripts in progress
 **Sun, J.**, & Gauthier, I. (*in preparation*). The conceptual encoding benefit for faces could be due to costs for perceptual encoding.\
 **Sun, J.**, & Jeong, J., Cha, O., Gauthier, I., & Palmeri, T. (*in preparation*). Can work from perceptual categorization inform our understanding of ensemble perception?\
 
-
+<!--
 Conference Presentations
 ======
 * Summer 2015: Research Assistant
@@ -71,6 +71,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+-->
 
 <!--
 Publications
