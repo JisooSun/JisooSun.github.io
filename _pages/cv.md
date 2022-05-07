@@ -32,7 +32,7 @@ Publications
 **Sun, J.**, & Gauthier, I. (2021). Car expertise does not compete with face expertise during ensemble coding. *Attention, Perception, & Psychophysics. 83*(3), 1275-1281. [https://doi.org/10.3758/s13414-020-02188-8](https://doi.org/10.3758/s13414-020-02188-8)\
 **Sun, J.**, & Chong, S. C. (2020). Power of averaging: noise reduction by ensemble coding of multiple faces. *Journal of Experimental Psychology: General, 149*(3), 550-563. [http://dx.doi.org/10.1037/xge0000667](http://dx.doi.org/10.1037/xge0000667)\
 Im, H. Y., Chong, S. C., **Sun, J.**, Steiner, T. G., Albohn, D. N., Adams, R. B., & Kveraga, K. (2017). Cross-cultural and hemispheric laterality effects on the ensemble coding of emotion in facial crowds. *Culture and Brain, 5*(2), 125-152. [https://doi.org/10.1007/s40167-017-0054-y](https://doi.org/10.1007/s40167-017-0054-y)\
-**Sun, J.**, Yang, J.-W., & Chong, S. C. (2017). The effect of emotional valence of stimuli and emotional state of observers on distance perception. *The Korean Journal of Cognitive and Biological Psychology, 29*(4), 331-349. [http://dx.doi.org/10.22172/cogbio.2017.29.4.001](http://dx.doi.org/10.22172/cogbio.2017.29.4.001)\
+**Sun, J.**, Yang, J.-W., & Chong, S. C. (2017). The effect of emotional valence of stimuli and emotional state of observers on distance perception. *The Korean Journal of Cognitive and Biological Psychology, 29*(4), 331-349. [http://dx.doi.org/10.22172/cogbio.2017.29.4.001](http://dx.doi.org/10.22172/cogbio.2017.29.4.001)
 
 Manuscripts in progress
 ======
@@ -62,16 +62,18 @@ May 2016 *The holistic processing of a single face is different from the ensembl
 
 Teaching experience
 ======
-Teaching Assistant
-**Vanderbilt University**
+**Teaching Assistant**\
+**Vanderbilt University**\
 Spring 2022 PSY2100 Quantitative Psychology (Instructor: Ashleigh Maxcey)\
 Fall 2021 PSY3120 Cognitive Psychology (Instructor: Ashleigh Maxcey)\
 Spring 2020-Spring 2021 PSY2150 Principles of Experimental Design (Instructor: Isabel Gauthier)\
 Fall 2019 PSY3750 Perception (Instructor: Alexander Maier)\
-**Yonsei University**
+**Yonsei University**\
 Spring 2015 COG3101 Introduction to Cognitive Science (Instructor: Sang Chul Chong)\
 Fall 2014 COG4101 Information Processing Theory (Instructor: Sang Chul Chong)
-<!--Work experience
+
+<!--
+Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
