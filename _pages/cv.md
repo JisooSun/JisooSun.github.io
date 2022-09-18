@@ -37,12 +37,14 @@ Im, H. Y., Chong, S. C., **Sun, J.**, Steiner, T. G., Albohn, D. N., Adams, R. B
 Manuscripts in progress
 ======
 **Sun, J.**, & Gauthier, I. (*in preparation*). The conceptual encoding benefit for faces could be due to costs for perceptual encoding.\
-**Sun, J.**, & Jeong, J., Cha, O., Gauthier, I., & Palmeri, T. (*in preparation*). Can work from perceptual categorization inform our understanding of ensemble perception?
+**Sun, J.**, & Jeong, J., Cha, O., Gauthier, I., & Palmeri, T. (*in preparation*). Relations between ensemble perception and perceptual categorization.\
+**Sun, J.**, & Gauthier, I. (*submitted*). Does food recognition depend on color?\
+Son, G., Im., H. Y., Albohn, D. N., Kveraga, K., Adams, R. B., **Sun, J.**, & Chong, S.C. (*submitted*). Americans weigh an attended emotion more than Koreans in overall mood judgments.
 
 
 Conference Presentations
 ======
-**Sun, J.**, & Gauthier, I. (2022, May). *The conceptual encoding benefit for faces could be due to costs for perceptual encoding*. Poster will be presented at the annual meeting of Vision Sciences Society, St. Pete Beach, FL.\
+**Sun, J.**, & Gauthier, I. (2022, May). *The conceptual encoding benefit for faces could be due to costs for perceptual encoding*. Poster presented at the annual meeting of Vision Sciences Society, St. Pete Beach, FL.\
 **Sun, J.**, & Gauthier, I. (2020, June). *Car expertise does not compete with face expertise during ensemble coding*. Poster presented at the annual meeting of Vision Sciences Society, Virtual.\
 Chong, S. C., & **Sun, J.** (2017, August). *Ensemble perception of emotional crowds: Advantages and Characteristics*. Talk presented at the annual conference of Korean Psychological Association, Seoul, Republic of Korea.\
 **Sun, J.**, & Chong, S. C. (2017, May). *Is holistic processing ensemble coding?* Poster presented at the annual meeting of Vision Sciences Society, St. Pete Beach, FL.\
@@ -64,6 +66,7 @@ Teaching experience
 ======
 **Teaching Assistant**\
 **Vanderbilt University**\
+Fall 2022 PSY2150 Principles of Experimental Design (Instructor: Adriane Seiffert)\
 Spring 2022 PSY2100 Quantitative Psychology (Instructor: Ashleigh Maxcey)\
 Fall 2021 PSY3120 Cognitive Psychology (Instructor: Ashleigh Maxcey)\
 Spring 2020-Spring 2021 PSY2150 Principles of Experimental Design (Instructor: Isabel Gauthier)\
@@ -72,6 +75,7 @@ Fall 2019 PSY3750 Perception (Instructor: Alexander Maier)\
 Spring 2015 COG3101 Introduction to Cognitive Science (Instructor: Sang Chul Chong)\
 Fall 2014 COG4101 Information Processing Theory (Instructor: Sang Chul Chong)
 
+*last update: September 2022*
 <!--
 Work experience
 ======
