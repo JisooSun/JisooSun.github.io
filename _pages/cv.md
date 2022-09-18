@@ -75,7 +75,7 @@ Fall 2019 PSY3750 Perception (Instructor: Alexander Maier)\
 Spring 2015 COG3101 Introduction to Cognitive Science (Instructor: Sang Chul Chong)\
 Fall 2014 COG4101 Information Processing Theory (Instructor: Sang Chul Chong)
 
-*last update: September 2022*\
+*last update: September 2022*
 
 <!--
 Work experience
