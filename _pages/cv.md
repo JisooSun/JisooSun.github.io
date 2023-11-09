@@ -38,9 +38,9 @@ Im, H. Y., Chong, S. C., **Sun, J.**, Steiner, T. G., Albohn, D. N., Adams, R. B
 
 Manuscripts in progress
 ======
-**Sun, J.**, Smithson, C., & Gauthier, I. (in preparation). Individual differences in ensemble perception: Contributions of attention control.\ 
+**Sun, J.**, Smithson, C., & Gauthier, I. (*in preparation*). Individual differences in ensemble perception: Contributions of attention control.\
 **Sun, J.**, & Gauthier, I. (*in preparation*). The conceptual encoding benefit for faces could be due to costs for perceptual encoding.\
-**Sun, J.**, & Jeong, J., Cha, O., Gauthier, I., & Palmeri, T. (*in preparation*). Relations between ensemble perception and perceptual categorization.\
+**Sun, J.**, & Jeong, J., Cha, O., Gauthier, I., & Palmeri, T. (*in preparation*). Relations between ensemble perception and perceptual categorization.
 
 Conference Presentations
 ======
