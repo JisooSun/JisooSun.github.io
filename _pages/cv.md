@@ -29,7 +29,8 @@ Honors and Awards
 
 Publications
 ======
-**Sun, J.**, & Gauthier, I. (*accepted*). Does food recognition depend on color? *Psychonomic Bulletin & Review*\
+Son, G., Im., H. Y., Albohn, D. N., Kveraga, K., Adams, R. B., **Sun, J.**, & Chong, S.C. (2023). Americans weigh an attended emotion more than Koreans in overall mood judgments. *Scientific Reports*. [https://doi.org/10.1038/s41598-023-46723-7](https://doi.org/10.1038/s41598-023-46723-7)\
+**Sun, J.**, & Gauthier, I. (2023). Does food recognition depend on color? *Psychonomic Bulletin & Review*. [https://doi.org/10.3758/s13423-023-02298-y](https://doi.org/10.3758/s13423-023-02298-y)\
 **Sun, J.**, & Gauthier, I. (2021). Car expertise does not compete with face expertise during ensemble coding. *Attention, Perception, & Psychophysics. 83*(3), 1275-1281. [https://doi.org/10.3758/s13414-020-02188-8](https://doi.org/10.3758/s13414-020-02188-8)\
 **Sun, J.**, & Chong, S. C. (2020). Power of averaging: noise reduction by ensemble coding of multiple faces. *Journal of Experimental Psychology: General, 149*(3), 550-563. [http://dx.doi.org/10.1037/xge0000667](http://dx.doi.org/10.1037/xge0000667)\
 Im, H. Y., Chong, S. C., **Sun, J.**, Steiner, T. G., Albohn, D. N., Adams, R. B., & Kveraga, K. (2017). Cross-cultural and hemispheric laterality effects on the ensemble coding of emotion in facial crowds. *Culture and Brain, 5*(2), 125-152. [https://doi.org/10.1007/s40167-017-0054-y](https://doi.org/10.1007/s40167-017-0054-y)\
@@ -37,10 +38,9 @@ Im, H. Y., Chong, S. C., **Sun, J.**, Steiner, T. G., Albohn, D. N., Adams, R. B
 
 Manuscripts in progress
 ======
+**Sun, J.**, Smithson, C., & Gauthier, I. (in preparation). Individual differences in ensemble perception: Contributions of attention control.\ 
 **Sun, J.**, & Gauthier, I. (*in preparation*). The conceptual encoding benefit for faces could be due to costs for perceptual encoding.\
 **Sun, J.**, & Jeong, J., Cha, O., Gauthier, I., & Palmeri, T. (*in preparation*). Relations between ensemble perception and perceptual categorization.\
-Son, G., Im., H. Y., Albohn, D. N., Kveraga, K., Adams, R. B., **Sun, J.**, & Chong, S.C. (*submitted*). Americans weigh an attended emotion more than Koreans in overall mood judgments.
-
 
 Conference Presentations
 ======
@@ -66,6 +66,7 @@ Teaching experience
 ======
 **Teaching Assistant**\
 **Vanderbilt University**\
+Fall 2023 PSY3760 Mind and Brain (Instructor: Frank Tong)\
 Fall 2022 PSY2150 Principles of Experimental Design (Instructor: Adriane Seiffert)\
 Spring 2022 PSY2100 Quantitative Psychology (Instructor: Ashleigh Maxcey)\
 Fall 2021 PSY3120 Cognitive Psychology (Instructor: Ashleigh Maxcey)\
@@ -75,7 +76,7 @@ Fall 2019, Spring 2023 PSY3750 Perception (Instructor: Alexander Maier)\
 Spring 2015 COG3101 Introduction to Cognitive Science (Instructor: Sang Chul Chong)\
 Fall 2014 COG4101 Information Processing Theory (Instructor: Sang Chul Chong)
 
-*last update: May 2023*
+*last update: November 2023*
 
 <!--
 Work experience
