@@ -3,6 +3,9 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+redirect_from:
+- /research/
+- /research.html
 ---
 
 
@@ -11,9 +14,5 @@ author_profile: true
 
 
 {% for post in site.research %}
-  {% include archive-single.html 
-  redirect_from:
-  - /research/
-  - /research.html
-  %}
+  {% include archive-single.html %}
 {% endfor %}
