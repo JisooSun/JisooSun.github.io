@@ -1,0 +1,8 @@
+---
+title: "Car expertise does not compete with face expertise during ensemble coding"
+excerpt: "We investigated whether competition between different domains of similar expertise during ensemble perception, used Matlab and Bayesian inference.<br/>"
+collection: research
+---
+
+<img src='/images/Sun&Gauthier_VSS20.png'>
+When objects from two categories of expertise (e.g., faces and cars in dual car/face experts) are processed simultaneously, competition occurs across a variety of tasks. Here, we investigate whether competition between face and car processing also occurs during ensemble coding. The relationship between single object recognition and ensemble coding is debated, but if ensemble coding relies on the same ability as object recognition, we expect cars to interfere with ensemble coding of faces as a function of car expertise. We measured the ability to judge the variability in identity of arrays of faces, in the presence of task- irrelevant distractors (cars or novel objects). On each trial, participants viewed two sequential arrays containing four faces and four distractors, judging which array was the more diverse in terms of face identity. We measured participants’ car expertise, object recognition ability, and face recognition ability. Using Bayesian statistics, we found evidence against competition as a function of car expertise during ensemble coding of faces. Face recognition ability predicted ensemble judgments for faces, regardless of the category of task-irrelevant distractors. The result suggests that ensemble coding is not susceptible to competition between different domains of similar expertise, unlike single-object recognition.
