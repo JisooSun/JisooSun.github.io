@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 redirect_from:
-- /research/
-- /research.html
 ---
 
 
