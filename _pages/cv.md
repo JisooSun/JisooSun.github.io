@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-**2018-Current** Ph.D student in Psychology (major: Cognition and Cognitive Neuroscience), Vanderbilt University\
+**2018-2024(expected)** Ph.D student in Psychology (major: Cognition and Cognitive Neuroscience), Vanderbilt University\
   Advisor: Dr. Isabel Gauthier\
 **2014-2016** M.S. in Cognitive Science, Yonsei University\
   Advisor: Dr. Sang Chul Chong\
@@ -71,12 +71,12 @@ Fall 2022 PSY2150 Principles of Experimental Design (Instructor: Adriane Seiffer
 Spring 2022 PSY2100 Quantitative Psychology (Instructor: Ashleigh Maxcey)\
 Fall 2021 PSY3120 Cognitive Psychology (Instructor: Ashleigh Maxcey)\
 Spring 2020-Spring 2021 PSY2150 Principles of Experimental Design (Instructor: Isabel Gauthier)\
-Fall 2019, Spring 2023 PSY3750 Perception (Instructor: Alexander Maier)\
+Fall 2019, Spring 2023, 2024 PSY3750 Perception (Instructor: Alexander Maier)\
 **Yonsei University**\
 Spring 2015 COG3101 Introduction to Cognitive Science (Instructor: Sang Chul Chong)\
 Fall 2014 COG4101 Information Processing Theory (Instructor: Sang Chul Chong)
 
-*last update: November 2023*
+*last update: March 2024*
 
 <!--
 Work experience
